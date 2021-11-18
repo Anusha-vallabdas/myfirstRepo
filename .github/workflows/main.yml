@@ -1,6 +1,6 @@
  - name: Deploy Azure Resource Manager (ARM) Template
    uses: Azure/arm-deploy@v1
-     with:
+    with:
     # Provide the scope of the deployment. Valid values are: 'resourcegroup', 'managementgroup', 'subscription'
     scope: 
     # Override the Subscription Id set by Azure Login.
