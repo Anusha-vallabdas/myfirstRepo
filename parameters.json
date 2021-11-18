@@ -68,7 +68,7 @@
             "value": "Anu-vm"
         },
         "virtualMachineRG": {
-            "value": "AnushaRG"
+            "value": "POC_DevOps_RG"
         },
         "osDiskType": {
             "value": "Standard_LRS"
